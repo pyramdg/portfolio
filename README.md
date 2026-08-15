@@ -20,7 +20,7 @@ Systems Analysis and Development student, focused on backend development, automa
 
 - Email: gilsonlourenco946@gmail.com
 - LinkedIn: [Gilson L](https://www.linkedin.com/in/gilson-l-619692320/)
-- GitHub: [@AGOCSAFAZE](https://github.com/AGOCSAFAZE)
+- GitHub: [@pyramdg](https://github.com/pyramdg)
 
 ## License
 
