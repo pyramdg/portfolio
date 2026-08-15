@@ -1,0 +1,27 @@
+# Portfolio — Gilson Lourenço da Silva
+
+Source code for my personal portfolio, featuring projects, skills, and education in backend development, embedded systems (IoT), and data analysis.
+
+🔗 **Visit:** https://agocsafaze.github.io/portfolio/
+
+## About
+
+Systems Analysis and Development student, focused on backend development, automation, IoT, and infrastructure. I am also studying IT Technical Support and Maintenance.
+
+## Technologies
+
+- Python, C++, C#
+- Django, Flask
+- Arduino, ESP32
+- Pandas, scikit-learn
+- HTML, CSS
+
+## Contact
+
+- Email: gilsonlourenco946@gmail.com
+- LinkedIn: [Gilson L](https://www.linkedin.com/in/gilson-l-619692320/)
+- GitHub: [@AGOCSAFAZE](https://github.com/AGOCSAFAZE)
+
+## License
+
+This project is licensed under the MIT License.
