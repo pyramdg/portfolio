@@ -2,7 +2,7 @@
 
 Source code for my personal portfolio, featuring projects, skills, and education in backend development, embedded systems (IoT), and data analysis.
 
-🔗 **Visit:** https://pyramndg.github.io/portfolio/
+🔗 **Visit:** https://pyramdg.github.io/portfolio/
 
 ## About
 
