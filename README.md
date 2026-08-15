@@ -2,7 +2,7 @@
 
 Source code for my personal portfolio, featuring projects, skills, and education in backend development, embedded systems (IoT), and data analysis.
 
-🔗 **Visit:** https://agocsafaze.github.io/portfolio/
+🔗 **Visit:** https://pyramndg.github.io/portfolio/
 
 ## About
 
