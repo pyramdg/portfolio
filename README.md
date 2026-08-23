@@ -2,7 +2,7 @@
 
 Source code for my personal portfolio, featuring projects, skills, and education in backend development, embedded systems (IoT), and data analysis.
 
-🔗 **Visit:** https://gilson-lourenco-portfolio.gilsonlourenco946.chatgpt.site
+🔗 **Visit:** [pyramdg](https://gilson-lourenco-portfolio.gilsonlourenco946.chatgpt.site)
 
 ## About
 
@@ -20,7 +20,7 @@ Systems Analysis and Development student, focused on backend development, automa
 
 - Email: gilsonlourenco946@gmail.com
 - LinkedIn: [Gilson L](https://www.linkedin.com/in/gilson-l-619692320/)
-- GitHub: [@pyramdg](https://github.com/pyramdg)
+- GitHub: [pyramdg](https://github.com/pyramdg)
 
 ## License
 
